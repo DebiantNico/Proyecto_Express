@@ -1,0 +1,24 @@
+{
+   "empleado": [{
+     "id": 1,
+     "name": "Seana",
+     "lastname": "Shepcutt",
+     "email": "sshepcutt0@slashdot.org",
+     "phone": "562-817-0659",
+     "address": "Suite 15"
+    }, {
+     "id": 2,
+     "name": "Seka",
+     "lastname": "Hankey",
+     "email": "shankey1@businessinsider.com",
+     "phone": "389-533-8174",
+     "address": "PO Box 86842"
+    }, {
+     "id": 3,
+     "name": "Celina",
+     "lastname": "Saville",
+     "email": "csaville2@psu.edu",
+     "phone": "574-569-1154",
+     "address": "Room 1653"
+}]
+}

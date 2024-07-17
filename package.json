@@ -4,16 +4,31 @@
   "description": "\"Final Proyect using express js\"",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebiantNico/Proyecto_Express.git"
   },
   "keywords": [
     "api",
     "rest",
-    "express"
+    "express",
+    "jwt",
+    "mysql"
   ],
   "author": "Nicolas MG",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DebiantNico/Proyecto_Express/issues"
+  },
+  "homepage": "https://github.com/DebiantNico/Proyecto_Express#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.4"
   }
 }
